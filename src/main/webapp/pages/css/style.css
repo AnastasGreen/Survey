@@ -33,7 +33,6 @@ html, body {
     background:   url(../images/head.png);
     border-radius:30px;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);
-    padding: 1.7% 1.9% 1.1% 2.5%;
     margin-top: 5%;
     margin-left: 4%;
 }
@@ -43,11 +42,14 @@ html, body {
     top: 0%;
     left: 0%;
     width: 245px;
+    hight: 80px;
 }
 
 .menu ul{
     float:left;
-    margin-left: 20% ;
+    margin-left: 300px ;
+    margin-top: 20px;
+    width: 600px;
 /* расположение главной тем и о нас ; 
     */
 
@@ -55,7 +57,7 @@ html, body {
 
 .header .menu ul li{
     display: inline-block; 
-    padding: 0% 2% 0% 2%;
+    padding: 10px 20px;
 }
 
 .header .menu ul li a{ 
